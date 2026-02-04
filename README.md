@@ -1,4 +1,4 @@
-# 💫 Antala Raj  
+# Hi there, I'm Antala Raj
 ### AI & Data Science | Machine Learning | Generative AI | Computer Vision  
 
 I am a PGDM student in **AI & Data Science** at *Adani Institute of Digital Technology Management (AIDTM)*, focused on building real-world solutions using **Machine Learning, Generative AI, and Data Analytics**.  
