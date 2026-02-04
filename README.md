@@ -58,16 +58,12 @@ I have hands-on experience with projects in **Computer Vision, RAG-based systems
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antalaraj&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=antalaraj&theme=radical&hide_border=true" height="165" />
-</p>
+![GitHub Activity Graph](https://github.com/antalaraj.png)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antalaraj&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
+> Check my repositories below for detailed project work and commit history.
+
 
 ---
 
