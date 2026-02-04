@@ -15,8 +15,8 @@ I have hands-on experience with projects in **Computer Vision, RAG-based systems
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antalaraj)  
-📧 antalaraj214@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antalaraj)
+[![Email](https://img.shields.io/badge/Email-antalaraj214%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antalaraj214@gmail.com)
 
 ---
 
