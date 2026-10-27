@@ -90,14 +90,12 @@ A selection of projects that demonstrate different parts of my work.
 
 ## GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antalaraj&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="GitHub profile statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antalaraj&layout=compact&hide_border=true&theme=default" alt="Most used languages">
-</div>
+Explore my [public repositories](https://github.com/antalaraj?tab=repositories) and [contribution activity](https://github.com/antalaraj).
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=antalaraj&hide_border=true&theme=default" alt="GitHub contribution streak">
-</div>
+<p align="center">
+  <a href="https://github.com/antalaraj?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
+  <a href="https://github.com/antalaraj"><img src="https://img.shields.io/badge/View_Contributions-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View contributions"></a>
+</p>
 
 ---
 
