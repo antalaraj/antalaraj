@@ -3,6 +3,8 @@
   Keep this file focused on verified work, clear navigation, and readable layout.
 -->
 
+![Antala Raj — AI Engineer](./assets/profile-banner.svg)
+
 <div align="center">
 
 # Antala Raj
@@ -15,7 +17,7 @@ Building practical AI products, intelligent workflows, and data-driven applicati
   <a href="https://linkedin.com/in/antalaraj"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:antalaraj214@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/antalaraj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/antalaraj/portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/antalaraj/portfolio"><img src="https://img.shields.io/badge/Portfolio_Repo-View_Code-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio repository source code"></a>
 </p>
 
 </div>
